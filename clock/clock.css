@@ -2,6 +2,13 @@ body {
     background-color: #212121;
     color: #fff;
   }
+  #stop,#start{
+    padding: 15px;
+    margin: 10px;
+    border-radius: 15px;
+    background-color: black;
+    color: whitesmoke;
+  }
   .center {
     display: flex;
     height: 150vh;
