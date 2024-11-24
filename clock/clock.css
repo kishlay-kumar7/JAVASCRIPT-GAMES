@@ -1,0 +1,26 @@
+body {
+    background-color: #212121;
+    color: #fff;
+  }
+  #stop,#start{
+    padding: 15px;
+    margin: 10px;
+    border-radius: 15px;
+    background-color: black;
+    color: whitesmoke;
+  }
+  .center {
+    display: flex;
+    height: 150vh;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    flex-direction: column;
+  }
+  #clock {
+    font-size: 60px;
+    background-color: orange;
+    padding: 50px 150px;
+    margin-top: 10px;
+    border-radius: 50px;
+  }
